@@ -39,7 +39,10 @@ ext install animus-coop.vscode-elixir-mix-formatter
 ---
 ## Release Notes
 
+## [1.0.2] - 2025-03-05
+- Fix repo links.
+
 ## [1.0.1] - 2022-01-24
 - Fix readme
 
-[Read the complete CHANGELOG](https://github.com/animus-coop/vscode-elixir-mix-formatter/blob/master/CHANGELOG.md)
+[Read the complete CHANGELOG](https://github.com/animus-coop/vscode-elixir-formatter/blob/master/CHANGELOG.md)
